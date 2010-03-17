@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/crc32.h
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/trees.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/inftrees.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/zconf.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/inffast.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/example.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascnhalf_bot/!svn/ver/19/Megax/szukseges/Sources/zlib/infback.c
+END
