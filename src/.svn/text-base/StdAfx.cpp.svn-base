@@ -1,3 +1,0 @@
-/* Schumix */
-
-#include "StdAfx.h"
