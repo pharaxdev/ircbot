@@ -1,0 +1,17 @@
+#include "stdafx.h"
+void help();
+void mustang();
+void game();
+void calculator();
+void incorrect();
+void exit();
+void colors();
+void info();
+void commands();
+void encrypt();
+void fajl();
+void web();
+void red();
+void sha();
+void web2(std::string);
+void fordit(std::string,std::string);
